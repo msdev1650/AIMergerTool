@@ -1,6 +1,6 @@
 # AIMergerTool
 
-AIMergerTool is a powerful GUI application for crafting, managing, and sending prompts to GPT models. This tool allows users to merge multiple text inputs, including C# code files, into a single, well-structured prompt. It features an intuitive interface for API key management, model selection, and response handling.
+This innovative tool enables users to effectively merge diverse text inputs, including C# code files, into a unified prompt. As a result, AIMergerTool streamlines code-optimization processes and saves valuable time. Key features include an intuitive API key management system, seamless model selection, and efficient response handling.
 
 ## Features
 
