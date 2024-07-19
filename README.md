@@ -2,7 +2,7 @@
 
 This innovative tool enables users to effectively merge diverse text inputs, including C# code files, into a unified prompt. As a result, AIMergerTool streamlines code-optimization processes and saves valuable time. Key features include an intuitive API key management system, seamless model selection, and efficient response handling.
 
-![1](https://github.com/user-attachments/assets/9322ca30-39ca-40cc-ae4d-699be6502476)
+![2](https://github.com/user-attachments/assets/2959a5fc-abc1-42b3-bbd9-00292cfcb1a5)
 
 ## Features
 
