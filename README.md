@@ -20,7 +20,7 @@ AI Merger Tool is an advanced application that facilitates the seamless integrat
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/AIMergerTool.git
+git clone https://github.com/msdev1650/AIMergerTool.git
 
 
 
