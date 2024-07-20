@@ -22,90 +22,67 @@ AI Merger Tool is an advanced application that facilitates the seamless integrat
 
    ```bash
    git clone https://github.com/msdev1650/AIMergerTool.git
+   ```
 
+2. Navigate to the project directory:
 
-Navigate to the project directory:
+   ```bash
+   cd AIMergerTool
+   ```
 
-bash
+3. Install required dependencies:
 
-cd AIMergerTool
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Install required dependencies:
+## Usage Guide
 
-bash
+1. Launch the application:
 
-pip install -r requirements.txt
+   ```bash
+   python ai_merger_tool.py
+   ```
 
+2. First-time setup: Enter and save your OpenAI API key.
 
-Usage Guide
+3. Select your preferred GPT model from the dropdown menu.
 
+4. Construct your prompt:
+   - **Start Message**: Set initial context or instructions.
+   - **Middle Message**: Input main content or code for processing.
+   - **End Message**: Add final instructions or closing remarks.
 
-Launch the application:
+5. For C# file integration, use the "Open File Explorer" button.
 
-bash
+6. (Optional) Enable Debug Mode for testing without API calls.
 
-python ai_merger_tool.py
+7. Click "Send to GPT" to process your prompt.
 
-First-time setup: Enter and save your OpenAI API key.
+8. View GPT responses in the dedicated tab.
 
+9. Access debug information in the "Debug Logs" tab.
 
-Select your preferred GPT model from the dropdown menu.
+## Advanced Configuration
 
+- Customize default messages in `active_templates/start_message.txt` and `active_templates/end_message.txt`.
+- Adjust token limits using the Max Tokens feature.
+- Fine-tune token control with Manual Token Entry mode.
 
-Construct your prompt:
+## Troubleshooting
 
-Start Message: Set initial context or instructions.
-Middle Message: Input main content or code for processing.
-End Message: Add final instructions or closing remarks.
+- Verify API key correctness if experiencing authentication issues.
+- Consult Debug Logs for detailed error messages and application status.
+- Ensure a stable internet connection for API interactions.
 
-For C# file integration, use the "Open File Explorer" button.
-
-
-(Optional) Enable Debug Mode for testing without API calls.
-
-
-Click "Send to GPT" to process your prompt.
-
-
-View GPT responses in the dedicated tab.
-
-
-Access debug information in the "Debug Logs" tab.
-
-
-
-Advanced Configuration
-
-
-Customize default messages in active_templates/start_message.txt and active_templates/end_message.txt.
-
-Adjust token limits using the Max Tokens feature.
-
-Fine-tune token control with Manual Token Entry mode.
-
-
-Troubleshooting
-
-
-Verify API key correctness if experiencing authentication issues.
-
-Consult Debug Logs for detailed error messages and application status.
-
-Ensure a stable internet connection for API interactions.
-
-
-Contributing
+## Contributing
 
 We welcome contributions to AI Merger Tool! Please submit your Pull Requests for review.
 
-
-License
+## License
 
 This project is licensed under the Apache License 2.0. See the LICENSE file for full details.
 
-
-Disclaimer
+## Disclaimer
 
 AI Merger Tool interacts with OpenAI's GPT models. Users are responsible for ensuring compliance with OpenAI's use-case policies and terms of service.
-
-
