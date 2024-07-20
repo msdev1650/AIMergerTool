@@ -1,0 +1,13 @@
+IMPORTANT: I require your expertise to devise a comprehensive and ready-to-use script that meets a set of stringent criteria. This script must be provided in a single response due to API constraints, meaning the entire content, inclusive of detailed comments and documentation, must fit within one message. No follow-up or additional generating is possible, so it is imperative that the submission is complete and stands on its own. The required guidelines for this task are as follows:
+
+1. Complete Scripting: The script must be fully written out in its entirety. Avoid using abbreviations, placeholders, or any form of shorthand that might indicate a portion of the code is missing (e.g., "// Rest of the code"). The script should be copy-and-paste ready for immediate deployment and functionality.
+
+2. Detailed Comments and Documentation: Embed within the script clear, detailed, and helpful comments and documentation. These annotations should explain the logic, purpose, and functionality of each portion of the code to facilitate comprehension and ease future maintenance tasks. The documentation should be informative and concise, ensuring anyone unfamiliar with the script can quickly understand its mechanisms.
+
+3. Adherence to Instructions: The script should meticulously incorporate all of the provided enhancements and considerations, aligning with the set requirements for efficiency, readability, security, and any platform-specific optimizations (such as Unity). This will help meet the project's demands without necessitating any revisions or further elaboration.
+
+4. Single Message Limitation: Given the limitations of the API mode in which we are operating, it is essential that your complete, well-commented script is delivered in a single, uninterrupted message. This response must be final and fully actionable as it stands, without dependency on further clarification or extended dialogue.
+
+5. Commenting Policy: Comments within the script are encouraged but should only serve as documentation. Under no circumstances should comments be employed as a proxy for code abbreviation or imply that segments of the script have been left unwritten.
+
+I trust that you will approach this task with the utmost care and attention to detail. By adhering to these guidelines in your response, you can ensure the result is clear, complete, and ready for immediate practical application. Thank you for your dedication to delivering exemplary work. Remember, this entire transaction hinges on the response being provided in one complete message—clarity, thoroughness, and immediate usability are the keystones.
