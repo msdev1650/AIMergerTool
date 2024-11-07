@@ -1,6 +1,6 @@
 # AI Merger Tool
 
-AI Merger Tool is an advanced application that facilitates the seamless integration of diverse text inputs, including C# code files, into a unified prompt. This tool significantly streamlines code optimization processes, enhances productivity, and saves valuable time for developers and AI enthusiasts.
+AI Merger Tool is an application that facilitates the seamless integration of diverse text inputs, including C# code files, into a unified prompt. This tool significantly streamlines code optimization processes, enhances productivity, and saves valuable time for developers and AI enthusiasts.
 
 ![AI Merger Tool Interface](https://github.com/user-attachments/assets/2959a5fc-abc1-42b3-bbd9-00292cfcb1a5)
 
